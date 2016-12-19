@@ -2,9 +2,6 @@ package com.company;
 
 import java.io.IOException;
 
-/**
- * Created by op on 23.05.2016.
- */
 public class UsaBank extends Bank {
 
     protected Accounts createAcc(String currency) throws IOException {
